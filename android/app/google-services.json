@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088375290116",
+    "project_id": "livechatdemo-1a7a5",
+    "storage_bucket": "livechatdemo-1a7a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088375290116:android:d98bf8695b173062873851",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcF5HsvaX5cD8LpTA6WdjZeFy8kHDG4GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
